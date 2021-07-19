@@ -8,7 +8,7 @@ Para compilar o projeto, use os seguintes comandos:
 mkdir build && cd build
 cmake ..
 make
-./keno ../data/arquivo_de_apostas
+./keno ../data/entrada_1
 ```
 
 ## Arquivo de apostas
