@@ -1,0 +1,3 @@
+/home/diego/code/lp1/projeto-1/build/CMakeFiles/rebuild_cache.dir
+/home/diego/code/lp1/projeto-1/build/CMakeFiles/edit_cache.dir
+/home/diego/code/lp1/projeto-1/build/CMakeFiles/keno.dir
